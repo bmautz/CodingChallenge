@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{43BCA5F4-98D4-4AAD-9ECA-267CC4955B0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSolution/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="TestSolution/Startup.cs" Line="1" Column="1" />
+      <File FileName="TestSolution/Program.cs" Line="1" Column="1" />
+      <File FileName="TestSolution/Controllers/ValuesController.cs" Line="41" Column="10" />
+      <File FileName="TestSolution/appsettings.json" Line="1" Column="1" />
+      <File FileName="TestSolution/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestSolution" expanded="True">
+            <Node name="TestSolution" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestSolution PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

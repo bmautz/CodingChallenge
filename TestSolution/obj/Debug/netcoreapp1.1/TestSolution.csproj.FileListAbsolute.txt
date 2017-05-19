@@ -1,0 +1,10 @@
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/bin/Debug/netcoreapp1.1/TestSolution.deps.json
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/bin/Debug/netcoreapp1.1/TestSolution.runtimeconfig.json
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/bin/Debug/netcoreapp1.1/TestSolution.runtimeconfig.dev.json
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/bin/Debug/netcoreapp1.1/TestSolution.dll
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/bin/Debug/netcoreapp1.1/TestSolution.pdb
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/obj/Debug/netcoreapp1.1/TestSolution.csprojResolveAssemblyReference.cache
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/obj/Debug/netcoreapp1.1/TestSolution.csproj.CoreCompileInputs.cache
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/obj/Debug/netcoreapp1.1/TestSolution.AssemblyInfo.cs
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/obj/Debug/netcoreapp1.1/TestSolution.dll
+/Users/BrandonMautz/Projects/TestSolution/TestSolution/obj/Debug/netcoreapp1.1/TestSolution.pdb
